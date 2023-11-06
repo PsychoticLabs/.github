@@ -6,7 +6,7 @@ we are a Game Studio that works to make the higest quality games we possibly can
 ### trust us
 ### most used Programing Languages
 
-[![My Skills](https://skillicons.dev/icons?i=cs,cpp,c,md&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,md&theme=dark)](https://skillicons.dev)
 
 ### Programs we use for Development
 
