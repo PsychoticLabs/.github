@@ -1,4 +1,4 @@
-<h1 align="center">PsychoticGameLab</h1>
+<h1 align="center">PsychoticLabs</h1>
 
 ![Base Image](https://github.com/PsychoticGameLab/.github/assets/116987090/ee418a08-22fd-42ad-be35-d9470847e8cc)
 
