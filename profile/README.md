@@ -16,4 +16,4 @@ we are a group of individuals that works to make the higest quality games we pos
 [![My Skills](https://skillicons.dev/icons?i=dotnet&theme=dark)](https://skillicons.dev)
 
 ### Platforms we use
-[![My Skills](https://skillicons.dev/icons?i=discord,github&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=discord,github,twitter&theme=dark)](https://skillicons.dev)
