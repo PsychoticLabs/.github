@@ -1,6 +1,6 @@
 <h1 align="center">PsychoticLabs</h1>
 
-![Base Image](https://github.com/PsychoticLabs/.github/assets/116987090/ee418a08-22fd-42ad-be35-d9470847e8cc)
+![Base Image](https://github.com/PsychoticLabs/.github/assets/116987090/790322cc-5cca-4617-8017-f6902a96d6e1)
 
 we are a group of individuals that works to make the higest quality games we possibly can for the soul purpose and entertaining others and showing our skills to the world.
 
