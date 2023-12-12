@@ -8,9 +8,9 @@ we are a group of individuals that works to make the higest quality games we pos
 
 [![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,md&theme=dark)](https://skillicons.dev)
 
-### Programs we use for Development
+### Programs/Tools we use for Development
 
-[![My Skills](https://skillicons.dev/icons?i=git,unreal,vscode&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,unreal,vscode,cmake&theme=dark)](https://skillicons.dev)
 
 ### Frameworks we use
 [![My Skills](https://skillicons.dev/icons?i=dotnet&theme=dark)](https://skillicons.dev)
