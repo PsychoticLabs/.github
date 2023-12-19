@@ -10,7 +10,7 @@ we are a group of individuals that works to make the higest quality games we pos
 
 ### Programs/Tools we use for Development
 
-[![My Skills](https://skillicons.dev/icons?i=git,unreal,visualstudio,androidstudio&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,unreal,vscode,androidstudio&theme=dark)](https://skillicons.dev)
 
 ### Frameworks we use
 [![My Skills](https://skillicons.dev/icons?i=dotnet,gradle&theme=dark)](https://skillicons.dev)
